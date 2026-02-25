@@ -3,7 +3,7 @@
 Manual operacional (passo a passo) para orientar a emissão de NF-e nos cenários previstos no Ajuste SINIEF 49/2025.
 
 ## Acesso ao manual (online)
-- **Link (Cloudflare Pages):** cole aqui o link `https://...pages.dev`
+- **Link (Cloudflare Pages):** cole aqui o link `[https://...pages.dev](https://manual-sinief49.pages.dev/)`
 
 ## Conteúdo
 - Cenário A: Entrega futura com pagamento antecipado  
