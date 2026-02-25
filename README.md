@@ -11,10 +11,5 @@ Manual operacional (passo a passo) para orientar a emissão de NF-e nos cenário
 - Cenário C: Redução de valores/quantidades (sem cancelamento)  
 - Cenário D: Retorno por recusa/não localização (total/parcial)
 
-## Como atualizar
-1. Substitua o arquivo **index.html** por uma versão nova.
-2. Faça commit no GitHub.
-3. O Cloudflare Pages publica automaticamente.
-
 ## Autoria
 Elaborado por **Beatriz Bento**.
